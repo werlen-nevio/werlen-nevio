@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, ich bin Nevio 👋
+# Hey, I'm Nevio 👋
 
-### Full-Stack Developer aus den Schweizer Alpen 🏔️🇨🇭
+### Full-stack developer from the Swiss Alps.
 
-*Ich baue clean web applications und real-time experiences — close to the product, mit Fokus auf solider Architektur, durchdachter UX und Dingen, die tatsächlich genutzt werden.*
+*I build clean web applications and real-time experiences, working closely with the product, with a focus on robust architecture, well-thought-out UX and features that people actually use.*
 
 [![Website](https://img.shields.io/badge/nevio.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://nevio.dev)
 [![Email](https://img.shields.io/badge/mail@nevio.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@nevio.dev)
